@@ -1,0 +1,1 @@
+This is an Examination portal, though it does not connect to the internet, GET command may be used to fetch data from a file or directly accessing data from a file where the questions and answers are saved in an orderly CSV format may also be easy to perform
